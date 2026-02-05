@@ -1,0 +1,31 @@
+# Core Dependencies
+tensorflow>=2.10.0
+numpy>=1.24.0
+
+# Image Processing
+Pillow>=9.4.0
+
+# Progress Tracking
+tqdm>=4.65.0
+
+# Serialization
+pickle-mixin>=1.0.2
+
+# Jupyter Notebook
+ipykernel>=6.20.0
+jupyter>=1.0.0
+
+# For VGG16 model download
+h5py>=3.8.0
+
+# For GPU support (CUDA 11.8 compatible with TensorFlow 2.10+)
+tensorflow[and-cuda]==2.12.0
+
+# For data manipulation
+pandas>=1.5.0
+
+# For visualization
+matplotlib>=3.7.0
+
+# For additional image processing
+opencv-python>=4.7.0
