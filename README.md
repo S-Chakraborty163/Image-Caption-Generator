@@ -82,6 +82,6 @@
 
 --> Epochs: Early stopping based on validation loss
 
-Vocabulary: ~8,500 unique words (after preprocessing)
+--> Vocabulary: ~8,500 unique words (after preprocessing)
 
 
